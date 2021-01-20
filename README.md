@@ -1,5 +1,5 @@
 # big-data-shell
-Shell commands for processing files
+Shell commands for processing data
 
 ## Bash
 
