@@ -6,6 +6,12 @@ Shell commands for processing data
 Helpful commands
 ```Bash
 
+ls
+cat r.txt > a.txt
+cat r.txt >> a.txt
+mkdir src
+touch .gitignore
+curl " url" > a.txt
 ```
 
 ## PowerShell
